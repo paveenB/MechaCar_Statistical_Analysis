@@ -7,6 +7,7 @@
 ## Summary Statistics on Suspension Coils
 
 ![This is an image](https://github.com/paveenB/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
+
 ![This is an image](https://github.com/paveenB/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
 
 ## T-Tests on Suspension Coils
