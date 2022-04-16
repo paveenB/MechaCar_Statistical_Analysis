@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-[link](https://github.com/paveenB/MechaCar_Statistical_Analysis/blob/main/Images/regression.png)
+![This is an image](https://github.com/paveenB/MechaCar_Statistical_Analysis/blob/main/Images/regression.png)
 
 ## Summary Statistics on Suspension Coils
 
